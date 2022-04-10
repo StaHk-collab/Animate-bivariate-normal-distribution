@@ -1,4 +1,4 @@
-# Animate-bivariate-normal-distribution
+# Animate-bivariate-normal-distribution (Task 1)
 
 ## Libraries used :
 JAX, NumPy, Matplotlib, SciPy 
